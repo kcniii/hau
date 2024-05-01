@@ -2,5 +2,9 @@ numpy
 matplotlib 
 trimesh 
 scipy 
-pyrender 
+pyrender
+ipykernel
 ipywidgets
+
+opencv-python
+pyrealsense2
