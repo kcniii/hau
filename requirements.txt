@@ -1,0 +1,6 @@
+numpy 
+matplotlib 
+trimesh 
+scipy 
+pyrender 
+ipywidgets
